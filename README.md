@@ -245,7 +245,10 @@ This project was developed as part of my practical Data Analytics and Power BI l
 It demonstrates the ability to transform raw healthcare data into an interactive dashboard that communicates performance, patient, operational, financial, and experience-related information in a clear and structured way.
 
 ---
+Author 
+Famose Ayomikun Fatimotu
 
+---
 Project Information
 
 Project Type: Healthcare Data Analytics & Visualization

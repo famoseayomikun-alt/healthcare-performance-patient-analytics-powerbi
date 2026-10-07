@@ -214,7 +214,7 @@ This project demonstrates practical skills in:
 
 📂 Project Files
 
-- "Healthcare_Performance_Dashboard.pbix" — Power BI dashboard file
+- "healthcare performance overview.pbix" — Power BI dashboard file
 - "healthcare performance overview.png" — Healthcare Performance Overview
 - "patient profile and care patterns.png" — Patient Profile and Care Patterns
 - "hospital operations and service efficiency.png" — Hospital Operations and Service Efficiency

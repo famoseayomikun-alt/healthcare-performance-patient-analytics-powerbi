@@ -113,7 +113,7 @@ Examples of areas explored include:
 
 Dashboard Overview
 
-"Xcare Dashboard Overview" (dashboard-overview.png)
+"Health care Dashboard Overview" (healthcare performance overview.png)
 
 📂 Project Files
 
